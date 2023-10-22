@@ -1,8 +1,5 @@
-# React + Vite
+# Pulseras Eunoia
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Proyecto hecho por Martin Carrizo en la Comision 47195 con el profesor Franco Diosquez
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+El proyecto consta de un e-commerce muy simple hecho con React donde se pudo incorporar Firebase como base de datos para poder cargar todos los productos, incluye su inicio, filtrado de categorias, detalle del producto, carrito de compras y un contacto
